@@ -1,1 +1,0 @@
-# Sign-Language-to-Text-Using-Action-Detection
